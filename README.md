@@ -48,7 +48,7 @@
   <a href="https://yourportfolio.com">
     <img src="https://img.shields.io/badge/portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/arre.mohit/?hl=en">
+  <a href="https://www.instagram.com/arre.mohit">
     <img src="https://img.shields.io/badge/instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
   </a>
 </p>
