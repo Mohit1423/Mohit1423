@@ -1,16 +1,56 @@
-## Hi there 👋
+<h1 align="center">Hey there 👋</h1>
 
-<!--
-**Mohit1423/Mohit1423** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <i>building • breaking • learning • repeating</i>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <b>Just another developer trying to make the compiler happy</b>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 About Me
+
+- 3rd-year student at IIT Roorkee  
+- Strong in DSA (C++), because who doesn’t love a good segmentation fault at 2 AM  
+- Currently diving deep into **full stack development** — React, Node.js, JavaScript, TypeScript  
+- Learning things one bug at a time (and sometimes creating new ones in the process)
+
+---
+
+## ⚙️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,js,ts,react,nodejs,express,mongodb,html,css,git,vscode,postman" />
+</p>
+
+---
+
+## 🚧 Currently
+
+- Debugging code that **definitely worked yesterday**  
+- Building small projects to get better at full stack stuff  
+- Googling error messages like it’s a sport  
+- Slowly realizing that “temporary fix” is a lifestyle  
+
+---
+
+## 🌐 Connect
+
+<p align="center">
+  <a href="https://github.com/yourusername">
+    <img src="https://img.shields.io/badge/github-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/yourusername">
+    <img src="https://img.shields.io/badge/linkedin-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+  </a>
+  <a href="https://yourportfolio.com">
+    <img src="https://img.shields.io/badge/portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/yourusername">
+    <img src="https://img.shields.io/badge/instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
+  </a>
+</p>
+
+---
