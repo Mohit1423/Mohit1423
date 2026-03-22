@@ -39,16 +39,16 @@
 ## 🌐 Connect
 
 <p align="center">
-  <a href="https://github.com/yourusername">
+  <a href="https://github.com/Mohit1423">
     <img src="https://img.shields.io/badge/github-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/yourusername">
+  <a href="https://www.linkedin.com/in/mohit-jhunjhunwala-542a27302">
     <img src="https://img.shields.io/badge/linkedin-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
   </a>
   <a href="https://yourportfolio.com">
     <img src="https://img.shields.io/badge/portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
-  <a href="https://instagram.com/yourusername">
+  <a href="https://www.instagram.com/arre.mohit/?hl=en">
     <img src="https://img.shields.io/badge/instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
   </a>
 </p>
