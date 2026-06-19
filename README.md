@@ -45,7 +45,7 @@
   <a href="https://www.linkedin.com/in/mohit-jhunjhunwala-542a27302">
     <img src="https://img.shields.io/badge/linkedin-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
   </a>
-  <a href="https://yourportfolio.com">
+  <a href="https://portfolio-page-black-alpha.vercel.app/">
     <img src="https://img.shields.io/badge/portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/arre.mohit">
